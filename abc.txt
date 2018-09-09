@@ -1,6 +1,5 @@
 aaaaaaaaaaaaaaaaa
-<<<<<<< HEAD
-bbbbb1111111bbbbbbbb
-=======
+
+
 bbbbb444bbbb5555
->>>>>>> origin/master
+
